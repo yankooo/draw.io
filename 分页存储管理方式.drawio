@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-21T13:18:58.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="MTpVlfKXP8egRIKpuK-x" version="12.2.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-21T13:25:37.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="YqDSINEocR_TtoAAcf1h" version="12.2.8" type="github" pages="1">
   <diagram id="Yr6U0pGL9p3vCSCSJH84" name="第 1 页">
-    <mxGraphModel dx="1173" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H_HTBfzigYBNuSM5Y4cz-5" target="H_HTBfzigYBNuSM5Y4cz-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="110" as="targetPoint"/>
+            <mxPoint x="583.5" y="110" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H_HTBfzigYBNuSM5Y4cz-5" target="H_HTBfzigYBNuSM5Y4cz-16">
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-5" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 217 , 102)&quot;&gt;≤&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;gradientColor=none;fillColor=#FFD966;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="185" width="110" height="40" as="geometry"/>
+          <mxGeometry x="528.5" y="185" width="110" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H_HTBfzigYBNuSM5Y4cz-6" target="H_HTBfzigYBNuSM5Y4cz-5">
           <mxGeometry relative="1" as="geometry"/>
@@ -55,7 +55,7 @@
           <mxGeometry x="240" y="165" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-11" value="越界中断（内中断）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;gradientColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="90" width="157" height="30" as="geometry"/>
+          <mxGeometry x="505" y="90" width="157" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H_HTBfzigYBNuSM5Y4cz-16" target="H_HTBfzigYBNuSM5Y4cz-25">
           <mxGeometry relative="1" as="geometry">
@@ -109,6 +109,14 @@
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-31" value="页表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="550" width="40" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="1" source="H_HTBfzigYBNuSM5Y4cz-38" target="H_HTBfzigYBNuSM5Y4cz-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1012" y="380"/>
+              <mxPoint x="1012" y="305"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-38" value="页内偏移量W" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="915" y="365" width="80" height="30" as="geometry"/>
         </mxCell>
@@ -116,22 +124,40 @@
           <mxGeometry x="765" y="365" width="150" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-41" value="系统区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="135" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1137.5" y="112.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="195" width="120" height="265" as="geometry"/>
+          <mxGeometry x="1137.5" y="172.5" width="120" height="265" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-43" value="内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="460" width="40" height="20" as="geometry"/>
+          <mxGeometry x="1177.5" y="437.5" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-44" value="页表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="250" width="120" height="30" as="geometry"/>
+          <mxGeometry x="1137.5" y="227.5" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="H_HTBfzigYBNuSM5Y4cz-45" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="995" y="240" width="40" height="20" as="geometry"/>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-45" value="页表始址F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1066" y="218" width="76" height="18" as="geometry"/>
         </mxCell>
         <mxCell id="H_HTBfzigYBNuSM5Y4cz-46" value="P号页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="312.5" width="120" height="30" as="geometry"/>
+          <mxGeometry x="1137.5" y="290" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-48" value="1. 根据逻辑地址算出页号和页内偏移量" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#33FFFF;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="739" y="69" width="317" height="61" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-49" value="2. 判断页号是否越界" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#33FFFF;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="140" width="170" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-50" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#33FFFF;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="455" width="199" height="156" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-51" value="3. 查询页表，找到页号&lt;br&gt;对应的页表项，确定页面&lt;br&gt;存放的内存块号" style="text;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="510" width="129" height="67" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-52" value="4. 使用内存块号和页内偏移量得到物理地址" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#33FFFF;gradientColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="662" y="402" width="367" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="H_HTBfzigYBNuSM5Y4cz-55" value="5. 访问目标内存单元" style="text;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1012.8333333333335" y="305.16666666666674" width="129" height="28" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
