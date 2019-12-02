@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T06:38:20.478Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GrHxKGuf5Fdwvv_Fe8wU" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T06:40:35.142Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="z51EFJGDnByLNmHf6Nf9" version="12.3.3" type="github" pages="1">
   <diagram id="9FEHb_WLnoKMGhMwpZKW" name="第 1 页">
     <mxGraphModel dx="1173" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="2O-RAt6t5xSQddA-2Dkh-35" value="&lt;span style=&quot;white-space: nowrap; font-size: 15px;&quot;&gt;ACK=1&amp;nbsp; seq = u ack = n+1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="820" y="880" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="2O-RAt6t5xSQddA-2Dkh-36" value="&lt;span style=&quot;white-space: nowrap ; font-size: 15px&quot;&gt;FIN=1&amp;nbsp; seq = w ack = n+1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="2O-RAt6t5xSQddA-2Dkh-36" value="&lt;span style=&quot;white-space: nowrap ; font-size: 15px&quot;&gt;FIN=1 ACK=1&amp;nbsp; seq = w ack = n+1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="840" y="1000" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="2O-RAt6t5xSQddA-2Dkh-37" value="&lt;span style=&quot;white-space: nowrap ; font-size: 15px&quot;&gt;ACK=1&amp;nbsp; seq = n+1 ack = w +1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;fontStyle=1;fontSize=15;" parent="1" vertex="1">
